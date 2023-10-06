@@ -35,7 +35,8 @@ To view our project there are some important things to do, you have to install n
 
 
 ### Service Page
-![screencapture-localhost-3000-Wishlist-2023-10-04-17_00_47](https://github.com/venkataramanabaratam2/SDP-1/assets/136094361/20c5418c-9817-4d23-bfaa-431c362facc3)
+![service](https://github.com/Venkataramanabaratam1/SDP-1/assets/109843726/43d64682-10a8-4968-9096-7bc0e90d0454)
+
 
 
 
