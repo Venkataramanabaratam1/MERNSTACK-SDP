@@ -9,7 +9,7 @@ Technologies incorporated in this project : MERN (MongoDB, Express, React, Node-
 As a part of the skill development projects we have been assigned to a management system, which is the Event Management System. For generating this project we have approached multiple aspects and gathered the appropriate information. This includes field surveys, interactions with Event managers, prototypes, and many things.
 ## Our Team :
 ### [Vachaspathi Gnaneswar Garlapati](https://github.com/vachaspathi6)
-### [Venkataramana Baratam](https://github.com/venkataramanabaratam2)
+### [Venkataramana Baratam](https://github.com/venkataramanabaratam1)
 ### [Manoj Teja Patcha](https://github.com/ManojTejaPatcha)
 
 ## Deployment Link:
