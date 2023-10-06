@@ -35,7 +35,8 @@ To view our project there are some important things to do, you have to install n
 
 
 ### Service Page
-![service](https://github.com/Venkataramanabaratam1/SDP-1/assets/109843726/43d64682-10a8-4968-9096-7bc0e90d0454)
+![service](https://github.com/Venkataramanabaratam1/SDP-1/assets/109843726/e7132f5c-13af-4fc6-b8fd-127625f6db1e)
+
 
 
 
